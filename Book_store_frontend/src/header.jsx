@@ -1,14 +1,13 @@
 import React from 'react'
 
 function header() {
+    console.log("Hello")
   return (
     <>
-    <div className='h-10 w-full bg-slate-400'>
-
-    </div>
+      <h1>Hello</h1>
     </>
     
   )
 }
 
-export default header
+export default header;
